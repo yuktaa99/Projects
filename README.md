@@ -1,8 +1,10 @@
-Introduction
+**Introduction**
+
 This project aims to track and analyze the progress of COVID-19 vaccinations across different countries. 
 The data is sourced from reliable databases and visualized using Excel to provide insights into vaccination rates, trends, and disparities.
 
-Methodology
+**Methodology**
+
 Data Collection: Data was collected from the above sources and imported into Excel.
 
 Data Cleaning: The data was cleaned to remove any inconsistencies or errors.
